@@ -1,0 +1,3 @@
+Hello world.
+This is the start of my coding journey.
+I am learning how to navigate git and github rn.
